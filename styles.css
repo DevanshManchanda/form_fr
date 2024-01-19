@@ -66,8 +66,9 @@ min-height: 2em;
 input, textarea {
 background-color: #F0EDCF;
 border: 1px solid #F0EDCF;
-color: #ffffff;
+color: black;
 }
+
 
 .inline {
 width: unset;
